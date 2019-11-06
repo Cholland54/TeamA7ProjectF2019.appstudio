@@ -45,6 +45,14 @@
             "startGameScreen", 
             "startGameScreen.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "joinGameScreen", 
+            "joinGameScreen.json"
+          ]
         }
       ], 
       "configxml": null, 
