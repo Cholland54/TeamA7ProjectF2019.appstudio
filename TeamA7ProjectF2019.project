@@ -29,6 +29,14 @@
             "optionScreen", 
             "optionScreen.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "registrationScreen", 
+            "registrationScreen.json"
+          ]
         }
       ], 
       "configxml": null, 
@@ -43,7 +51,7 @@
       "eslintRules": null, 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "homeScreen", 
+      "firstform": "registrationScreen", 
       "fontFamily": "system", 
       "homescreenTitle": "", 
       "icon": "nsb/images/192.png", 
