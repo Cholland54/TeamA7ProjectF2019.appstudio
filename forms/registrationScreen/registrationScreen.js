@@ -15,15 +15,12 @@ drpOptions.onclick=function(s){
     
     switch(s) { 
         case 'Email':
-            
+            ChangeForm(Email)
             break
         case 'Facebook':
             
             break
         case 'Google':
-            
-            break
-        case 'Describe Me':
             
             break
         case 'Twitter':
