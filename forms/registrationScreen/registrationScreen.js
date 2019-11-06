@@ -15,22 +15,22 @@ drpOptions.onclick=function(s){
     
     switch(s) { 
         case 'Email':
-            ChangeForm(loginCU)
+            
             break
         case 'Facebook':
-            ChangeForm(favFoods)
+            
             break
         case 'Google':
-            ChangeForm(dessertVoting)
+            
             break
         case 'Describe Me':
-            ChangeForm(describeYou)
+            
             break
         case 'Twitter':
-            ChangeForm(favExercises)
+            
             break
         case 'Instagram':
-            ChangeForm(favExercises)
+            
             break
         default: 
             NSB.MsgBox("Not an option.")
