@@ -21,38 +21,6 @@
             "homeScreen", 
             "homeScreen.json"
           ]
-        }, 
-        {
-          "!type": "External", 
-          "file": [
-            "forms", 
-            "register", 
-            "register.json"
-          ]
-        }, 
-        {
-          "!type": "External", 
-          "file": [
-            "forms", 
-            "sports", 
-            "sports.json"
-          ]
-        }, 
-        {
-          "!type": "External", 
-          "file": [
-            "forms", 
-            "createSport", 
-            "createSport.json"
-          ]
-        }, 
-        {
-          "!type": "External", 
-          "file": [
-            "forms", 
-            "joinSport", 
-            "joinSport.json"
-          ]
         }
       ], 
       "configxml": null, 

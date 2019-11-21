@@ -1,52 +1,33 @@
-btnLogin.onclick=function(){
 
+
+
+
+btnLogin.onclick=function(){
 let userName = inptUserName.value
 let password = inptPassword.value
 
- req1 = Ajax("https://radlab.creighton.edu/appStudio/authLDAP.php", "POST", "j_username=" + userName + "&j_password=" + password)
-    if (req1.status == 200) {  //AJAX call worked.
-        //1 good 0 bad
-        
-        if (req1.responseText == 1) {
-       ChangeForm(sports)
-      } else {
-        NSB.MsgBox("oops")
+let query = "SELECT * FROM username_password WHERE username = " + '"' + userName + '"' + "AND pass = " + '"' + password + '"'
+req1 = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=cjh22435&pass=BIA375!&database=375groupa7&query=" + query)
 
-        }
-        
-        
-        
-        
-        
-        
-    } else {  //had a problem with the AJAX request. 
-        NSB.MsgBox("oops")
+    if (req1.status == 200) { //transit worked.
+            results = JSON.parse(req1.responseText)
+                    if (results.length == 0 ) {
+                    console.log(results)
+                    NSB.MsgBox("does not exists")
+                  } else {
+                    
+                    NSB.MsgBox("works")
+                    }
+      
+    } else {
+        // transit error
+        NSB.MsgBox("Error: " + req1.status);
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
+//375iscool! cholland
 }
 
 btnRegister.onclick=function(){
-  ChangeForm(register)
+  
 }
+
