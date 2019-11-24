@@ -26,6 +26,7 @@
           "!type": "External", 
           "file": [
             "forms", 
+<<<<<<< Updated upstream
             "optionScreen", 
             "optionScreen.json"
           ]
@@ -52,6 +53,10 @@
             "forms", 
             "joinGameScreen", 
             "joinGameScreen.json"
+=======
+            "register", 
+            "register.json"
+>>>>>>> Stashed changes
           ]
         }
       ], 
@@ -94,7 +99,7 @@
       "rtl": "", 
       "script": null, 
       "splashscreen": "", 
-      "statusbar": "black-translucent", 
+      "statusbar": "default", 
       "stopOnError": "true", 
       "style": "", 
       "styleheaders": null, 
