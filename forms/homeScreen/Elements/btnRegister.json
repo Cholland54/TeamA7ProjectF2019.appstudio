@@ -60,7 +60,11 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
+ login
+  "top": 380, 
+
   "top": 183, 
+ master
   "value": "Register", 
   "width": "auto"
 }

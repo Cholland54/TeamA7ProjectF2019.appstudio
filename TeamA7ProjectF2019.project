@@ -18,6 +18,10 @@
           "!type": "External", 
           "file": [
             "forms", 
+login
+            "homeScreen", 
+            "homeScreen.json"
+          ]
 GrantNicholas
 Doofy's-Attempt-At-An-App
             "Search_For_Games", 
@@ -62,6 +66,7 @@ Stashed changes
 master
           ]
 master
+master
         }
       ], 
       "configxml": null, 
@@ -76,11 +81,14 @@ master
       "eslintRules": null, 
       "expanded_pmp": null, 
       "extraheaders": null, 
+login
+      "firstform": "homeScreen", 
  Doofy's-Attempt-At-An-App
       "firstform": "Search_For_Games", 
 
       "firstform": "startGameScreen", 
  master
+master
       "fontFamily": "system", 
       "homescreenTitle": "", 
       "icon": "nsb/images/192.png", 
@@ -107,10 +115,14 @@ master
       "rtl": "", 
       "script": null, 
       "splashscreen": "", 
+ login
+      "statusbar": "black-translucent", 
+
 Doofy's-Attempt-At-An-App
       "statusbar": "black-translucent", 
       "statusbar": "default", 
 master
+ master
       "stopOnError": "true", 
       "style": "", 
       "styleheaders": null, 

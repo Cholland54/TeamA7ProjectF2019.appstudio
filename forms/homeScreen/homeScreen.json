@@ -36,6 +36,27 @@
         "Elements", 
         "btnRegister.json"
       ]
+ login
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "homeScreen", 
+        "Elements", 
+        "inptUserName.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "homeScreen", 
+        "Elements", 
+        "inptPassword.json"
+      ]
+
+ master
     }
   ], 
   "class": "", 
@@ -52,7 +73,11 @@
   "onhide": "", 
   "onkeypress": "", 
   "onresize": "", 
+login
+  "onshow": "homeScreen.onshow()", 
+
   "onshow": "", 
+ master
   "openMode": "none", 
   "parentForm": "", 
   "position": "absolute", 
