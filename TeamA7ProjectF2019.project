@@ -18,6 +18,25 @@
           "!type": "External", 
           "file": [
             "forms", 
+GrantNicholas
+Doofy's-Attempt-At-An-App
+            "Search_For_Games", 
+            "Search_For_Games.json"
+            "homeScreen", 
+            "homeScreen.json"
+master
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+Doofy's-Attempt-At-An-App
+            "GameSearchResults", 
+            "GameSearchResults.json"
+
+Updated upstream
+master
             "optionScreen", 
             "optionScreen.json"
           ]
@@ -29,6 +48,20 @@
             "startGameScreen", 
             "startGameScreen.json"
           ]
+GrantNicholas
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "joinGameScreen", 
+            "joinGameScreen.json"
+            "register", 
+            "register.json"
+Stashed changes
+master
+          ]
+master
         }
       ], 
       "configxml": null, 
@@ -43,7 +76,11 @@
       "eslintRules": null, 
       "expanded_pmp": null, 
       "extraheaders": null, 
+ Doofy's-Attempt-At-An-App
+      "firstform": "Search_For_Games", 
+
       "firstform": "startGameScreen", 
+ master
       "fontFamily": "system", 
       "homescreenTitle": "", 
       "icon": "nsb/images/192.png", 
@@ -70,7 +107,10 @@
       "rtl": "", 
       "script": null, 
       "splashscreen": "", 
+Doofy's-Attempt-At-An-App
       "statusbar": "black-translucent", 
+      "statusbar": "default", 
+master
       "stopOnError": "true", 
       "style": "", 
       "styleheaders": null, 
