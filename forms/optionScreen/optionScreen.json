@@ -27,6 +27,15 @@
         "Elements", 
         "btnStart.json"
       ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "optionScreen", 
+        "Elements", 
+        "lblPrompt.json"
+      ]
     }
   ], 
   "class": "", 

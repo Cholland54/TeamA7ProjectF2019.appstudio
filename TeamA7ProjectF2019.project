@@ -18,14 +18,6 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "homeScreen", 
-            "homeScreen.json"
-          ]
-        }, 
-        {
-          "!type": "External", 
-          "file": [
-            "forms", 
             "optionScreen", 
             "optionScreen.json"
           ]
@@ -34,24 +26,8 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "registrationScreen", 
-            "registrationScreen.json"
-          ]
-        }, 
-        {
-          "!type": "External", 
-          "file": [
-            "forms", 
             "startGameScreen", 
             "startGameScreen.json"
-          ]
-        }, 
-        {
-          "!type": "External", 
-          "file": [
-            "forms", 
-            "joinGameScreen", 
-            "joinGameScreen.json"
           ]
         }
       ], 
