@@ -28,18 +28,14 @@
   "hidden": "", 
   "icon": "", 
   "iconTitle": "", 
-  "id": "btnLogin", 
- login
-  "left": 37, 
-
-  "left": 30, 
- master
+  "id": "btnRegisterPlayer", 
+  "left": 232, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
   "mRight": "", 
   "mTop": "", 
-  "onclick": "", 
+  "onclick": "btnRegisterPlayer.onclick()", 
   "onmousedown": "", 
   "onmousemove": "", 
   "onmouseout": "", 
@@ -64,11 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-login
-  "top": 382, 
-
-  "top": 181, 
- master
-  "value": "Login", 
+  "top": 11, 
+  "value": "Register", 
   "width": "auto"
 }

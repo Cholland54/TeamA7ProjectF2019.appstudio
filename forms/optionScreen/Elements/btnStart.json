@@ -28,12 +28,8 @@
   "hidden": "", 
   "icon": "", 
   "iconTitle": "", 
-  "id": "btnLogin", 
- login
-  "left": 37, 
-
-  "left": 30, 
- master
+  "id": "btnStart", 
+  "left": 185, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -64,11 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-login
-  "top": 382, 
-
-  "top": 181, 
- master
-  "value": "Login", 
+  "top": 219, 
+  "value": "Start a game", 
   "width": "auto"
 }

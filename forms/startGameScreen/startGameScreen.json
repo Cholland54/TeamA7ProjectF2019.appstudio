@@ -14,49 +14,55 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "homeScreen", 
+        "startGameScreen", 
         "Elements", 
-        "lblWelcome.json"
+        "drpSport.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "homeScreen", 
+        "startGameScreen", 
         "Elements", 
-        "btnLogin.json"
+        "drpNeed.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "homeScreen", 
+        "startGameScreen", 
         "Elements", 
-        "btnRegister.json"
-      ]
- login
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "homeScreen", 
-        "Elements", 
-        "inptUserName.json"
+        "drpHave.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "homeScreen", 
+        "startGameScreen", 
         "Elements", 
-        "inptPassword.json"
+        "inptTime.json"
       ]
-
- master
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "startGameScreen", 
+        "Elements", 
+        "inptLocation.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "startGameScreen", 
+        "Elements", 
+        "btnPost.json"
+      ]
     }
   ], 
   "class": "", 
@@ -65,7 +71,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "homeScreen", 
+  "id": "startGameScreen", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
@@ -73,11 +79,7 @@
   "onhide": "", 
   "onkeypress": "", 
   "onresize": "", 
-login
-  "onshow": "homeScreen.onshow()", 
-
   "onshow": "", 
- master
   "openMode": "none", 
   "parentForm": "", 
   "position": "absolute", 

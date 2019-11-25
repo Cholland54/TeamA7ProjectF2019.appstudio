@@ -14,49 +14,64 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "homeScreen", 
+        "GameSearchResults", 
         "Elements", 
-        "lblWelcome.json"
+        "hmbMenu31.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "homeScreen", 
+        "GameSearchResults", 
         "Elements", 
-        "btnLogin.json"
+        "inptHowManyMore.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "homeScreen", 
+        "GameSearchResults", 
         "Elements", 
-        "btnRegister.json"
-      ]
- login
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "homeScreen", 
-        "Elements", 
-        "inptUserName.json"
+        "inptDesiredStart.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "homeScreen", 
+        "GameSearchResults", 
         "Elements", 
-        "inptPassword.json"
+        "inptOrganizer.json"
       ]
-
- master
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "GameSearchResults", 
+        "Elements", 
+        "inptNumberSoFar.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "GameSearchResults", 
+        "Elements", 
+        "selLocation.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "GameSearchResults", 
+        "Elements", 
+        "lblLocation.json"
+      ]
     }
   ], 
   "class": "", 
@@ -65,7 +80,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "homeScreen", 
+  "id": "GameSearchResults", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
@@ -73,11 +88,7 @@
   "onhide": "", 
   "onkeypress": "", 
   "onresize": "", 
-login
-  "onshow": "homeScreen.onshow()", 
-
-  "onshow": "", 
- master
+  "onshow": "GameSearchResults.onshow()", 
   "openMode": "none", 
   "parentForm": "", 
   "position": "absolute", 

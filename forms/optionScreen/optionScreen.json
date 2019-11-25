@@ -14,49 +14,28 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "homeScreen", 
+        "optionScreen", 
         "Elements", 
-        "lblWelcome.json"
+        "btnJoin.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "homeScreen", 
+        "optionScreen", 
         "Elements", 
-        "btnLogin.json"
+        "btnStart.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "homeScreen", 
+        "optionScreen", 
         "Elements", 
-        "btnRegister.json"
+        "lblPrompt.json"
       ]
- login
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "homeScreen", 
-        "Elements", 
-        "inptUserName.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "homeScreen", 
-        "Elements", 
-        "inptPassword.json"
-      ]
-
- master
     }
   ], 
   "class": "", 
@@ -65,7 +44,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "homeScreen", 
+  "id": "optionScreen", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
@@ -73,11 +52,7 @@
   "onhide": "", 
   "onkeypress": "", 
   "onresize": "", 
-login
-  "onshow": "homeScreen.onshow()", 
-
   "onshow": "", 
- master
   "openMode": "none", 
   "parentForm": "", 
   "position": "absolute", 

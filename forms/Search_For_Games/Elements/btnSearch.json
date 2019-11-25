@@ -1,12 +1,12 @@
 {
   "!type": "Button_bs4", 
   "ChangeForm": "", 
-  "appearance": " btn-secondary", 
+  "appearance": " btn-light", 
   "backgroundColor": "", 
   "badge": "", 
   "badgeAppearance": " badge-info", 
   "blockLevel": "", 
-  "borderColor": "", 
+  "borderColor": "grey", 
   "borderStyle": "", 
   "borderWidth": "", 
   "bottom": "auto", 
@@ -24,22 +24,18 @@
   "fontWeight": "", 
   "groupStyle": "", 
   "grouping": "", 
-  "height": "auto", 
+  "height": 32, 
   "hidden": "", 
   "icon": "", 
   "iconTitle": "", 
-  "id": "btnLogin", 
- login
-  "left": 37, 
-
-  "left": 30, 
- master
+  "id": "btnSearch", 
+  "left": 120, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
   "mRight": "", 
   "mTop": "", 
-  "onclick": "", 
+  "onclick": "btnSearch.onclick()", 
   "onmousedown": "", 
   "onmousemove": "", 
   "onmouseout": "", 
@@ -61,14 +57,10 @@
   "popTitle": "Title", 
   "right": "auto", 
   "script": "", 
-  "size": " btn-md", 
+  "size": " btn-sm", 
   "style": "", 
   "toggleControl": "", 
-login
-  "top": 382, 
-
-  "top": 181, 
- master
-  "value": "Login", 
-  "width": "auto"
+  "top": 143, 
+  "value": "Search", 
+  "width": 64
 }

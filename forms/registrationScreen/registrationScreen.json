@@ -14,49 +14,28 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "homeScreen", 
+        "registrationScreen", 
         "Elements", 
-        "lblWelcome.json"
+        "lblChoice.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "homeScreen", 
+        "registrationScreen", 
         "Elements", 
-        "btnLogin.json"
+        "drpOptions.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "homeScreen", 
+        "registrationScreen", 
         "Elements", 
-        "btnRegister.json"
+        "Facebook1.json"
       ]
- login
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "homeScreen", 
-        "Elements", 
-        "inptUserName.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "homeScreen", 
-        "Elements", 
-        "inptPassword.json"
-      ]
-
- master
     }
   ], 
   "class": "", 
@@ -65,7 +44,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "homeScreen", 
+  "id": "registrationScreen", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
@@ -73,11 +52,7 @@
   "onhide": "", 
   "onkeypress": "", 
   "onresize": "", 
-login
-  "onshow": "homeScreen.onshow()", 
-
   "onshow": "", 
- master
   "openMode": "none", 
   "parentForm": "", 
   "position": "absolute", 
