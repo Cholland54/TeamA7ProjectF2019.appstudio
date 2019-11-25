@@ -17,9 +17,9 @@
   "fontWeight": "", 
   "height": "auto", 
   "hidden": "", 
-  "id": "lblSport", 
+  "id": "lblPrompt", 
   "labelStyle": "text", 
-  "left": 48, 
+  "left": 65, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -42,7 +42,7 @@
   "right": "auto", 
   "script": "", 
   "style": "", 
-  "top": 42, 
-  "value": "Sport", 
+  "top": 111, 
+  "value": "Do you want to join a game or start a new one?", 
   "width": "auto"
 }

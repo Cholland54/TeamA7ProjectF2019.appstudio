@@ -5,3 +5,5 @@ btnJoin.onclick=function(){
 btnStart.onclick=function(){
   ChangeForm(Start)
 }
+
+

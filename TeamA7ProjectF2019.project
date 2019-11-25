@@ -18,6 +18,7 @@
           "!type": "External", 
           "file": [
             "forms", 
+GrantNicholas
 Doofy's-Attempt-At-An-App
             "Search_For_Games", 
             "Search_For_Games.json"
@@ -35,16 +36,9 @@ Doofy's-Attempt-At-An-App
             "GameSearchResults.json"
 
 Updated upstream
+master
             "optionScreen", 
             "optionScreen.json"
-          ]
-        }, 
-        {
-          "!type": "External", 
-          "file": [
-            "forms", 
-            "registrationScreen", 
-            "registrationScreen.json"
           ]
         }, 
         {
@@ -54,6 +48,7 @@ Updated upstream
             "startGameScreen", 
             "startGameScreen.json"
           ]
+GrantNicholas
         }, 
         {
           "!type": "External", 
@@ -66,6 +61,7 @@ Updated upstream
 Stashed changes
 master
           ]
+master
         }
       ], 
       "configxml": null, 
